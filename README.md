@@ -2,7 +2,7 @@
 liveorderboard
 
 
-
-npm install
-npm start
-npm test
+use <br/>
+npm install <br/>
+npm start <br/>
+npm test <br/>
